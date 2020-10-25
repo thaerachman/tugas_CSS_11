@@ -1,0 +1,32 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+
+a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.content{
+column-width: auto;
+column-count: 4;
+text-align: justify;
+column-rule: solid black;
+}
+
+.footer{
+    background-color: black;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    padding-bottom: 10px;
+}
